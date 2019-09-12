@@ -34,3 +34,8 @@ C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesmen
 C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\Razor\Views\Airline\ListAirlinedata.g.cshtml.cs
 C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\Razor\Views\Airline\EditAirlineData.g.cshtml.cs
 C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\Razor\Views\Airline\ViewAirline.g.cshtml.cs
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\Razor\Views\Flights\Create.g.cshtml.cs
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\Razor\Views\Flights\Delete.g.cshtml.cs
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\Razor\Views\Flights\Details.g.cshtml.cs
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\Razor\Views\Flights\Edit.g.cshtml.cs
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\Razor\Views\Flights\Index.g.cshtml.cs
