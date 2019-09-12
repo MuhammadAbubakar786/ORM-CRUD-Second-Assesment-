@@ -1,0 +1,36 @@
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\bin\Debug\netcoreapp2.2\ORM(Second Assessment).deps.json
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\bin\Debug\netcoreapp2.2\ORM(Second Assessment).runtimeconfig.json
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\bin\Debug\netcoreapp2.2\ORM(Second Assessment).runtimeconfig.dev.json
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\bin\Debug\netcoreapp2.2\ORM(Second Assessment).dll
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\bin\Debug\netcoreapp2.2\ORM(Second Assessment).pdb
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\bin\Debug\netcoreapp2.2\ORM(Second Assessment).Views.dll
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\bin\Debug\netcoreapp2.2\ORM(Second Assessment).Views.pdb
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\ORM(Second Assessment).csprojAssemblyReference.cache
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\ORM(Second Assessment).csproj.CoreCompileInputs.cache
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\ORM(Second Assessment).RazorAssemblyInfo.cache
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\ORM(Second Assessment).RazorAssemblyInfo.cs
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\ORM(Second Assessment).AssemblyInfoInputs.cache
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\ORM(Second Assessment).AssemblyInfo.cs
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\ORM(Second Assessment).TagHelpers.input.cache
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\ORM(Second Assessment).TagHelpers.output.cache
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\ORM(Second Assessment).RazorCoreGenerate.cache
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\ORM(Second Assessment).RazorTargetAssemblyInfo.cache
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\ORM(Second Assessment).RazorTargetAssemblyInfo.cs
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\ORM(Second Assessment).Views.pdb
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\ORM(Second Assessment).dll
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\ORM(Second Assessment).pdb
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\ORM(Second Assessment).csproj.CopyComplete
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\Razor\Views\Airline\AddAirline.g.cshtml.cs
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\Razor\Views\Airline\ListAirlinedata.g.cshtml.cs
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\Razor\Views\Airline\EditAirlineData.g.cshtml.cs
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\ORM-CRUD-Second-Assesment-\ORM(Second Assessment)\obj\Debug\netcoreapp2.2\Razor\Views\Airline\ViewAirline.g.cshtml.cs

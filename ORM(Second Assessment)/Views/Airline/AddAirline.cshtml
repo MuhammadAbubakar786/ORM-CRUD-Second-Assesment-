@@ -1,0 +1,71 @@
+﻿@model ORM_Second_Assessment_.Models.Airline
+
+@{
+    ViewData["Title"] = "AddAirline";
+}
+
+<h1>AddAirline</h1>
+@{
+    if (!string.IsNullOrEmpty(ViewBag.message))
+    {
+        if (ViewBag.hint == "Success")
+        {
+            <h3 class="alert alert-success"><i class="fa fa-check"></i>@ViewBag.message</h3>
+        }
+        else if (ViewBag.hint == "Failed")
+        {
+            <h3 class="alert alert-danger"><i class="fa fa-cross"></i>@ViewBag.message</h3>
+        }
+    }
+
+}
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddAirline">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Country" class="control-label"></label>
+                <input asp-for="Country" class="form-control" />
+                <span asp-validation-for="Country" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Status" class="control-label"></label>
+                <input asp-for="Status" class="form-control" />
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ShortCode" class="control-label"></label>
+                <input asp-for="ShortCode" class="form-control" />
+                <span asp-validation-for="ShortCode" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Date" class="control-label"></label>
+                <input asp-for="Date" class="form-control" />
+                <span asp-validation-for="Date" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    <script>
+        $(function () {
+            $('h3').fadeOut(5000);
+            $("#Date").datepicker();
+        });     
+    </script>
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
